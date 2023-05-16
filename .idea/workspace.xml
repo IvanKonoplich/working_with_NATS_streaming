@@ -5,44 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="754108ee-b64c-45c8-9949-a53af5d567e2" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/learning_NATS_streaming.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Makefile" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my_publisher/go.mod" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my_publisher/go.sum" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my_publisher/main.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my_publisher/model.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my_service/.env" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my_service/cmd/main.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my_service/config/config.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my_service/go.mod" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my_service/go.sum" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my_service/internal/app/app.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my_service/internal/controller/httpServerController/errorResponse.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my_service/internal/controller/httpServerController/handler.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my_service/internal/controller/httpServerController/httpServerController.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my_service/internal/controller/httpServerController/router.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my_service/internal/controller/httpServerController/server.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my_service/internal/controller/natsStreamingController/handler.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my_service/internal/controller/natsStreamingController/natsStreamingController.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my_service/internal/entities/delivery.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my_service/internal/entities/item.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my_service/internal/entities/order.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my_service/internal/entities/payment.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my_service/internal/infrastructure/storage/operations.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my_service/internal/infrastructure/storage/postgres.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my_service/internal/infrastructure/storage/storage.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my_service/internal/usecases/memoryCacheAdapter/memoryCacheAdapter.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my_service/internal/usecases/operations.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my_service/internal/usecases/usecase.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my_service/pkg/memorycache/memorycache.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my_service/templates/index.tmpl" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my_service/templates/index2.tmpl" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nats-streaming-server" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/stan.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/stan.go" beforeDir="false" afterPath="$PROJECT_DIR$/stan.go" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/stan.go/examples/stan-sub/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/stan.go/examples/stan-sub/main.go" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
