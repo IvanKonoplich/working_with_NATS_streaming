@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="ALL" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="754108ee-b64c-45c8-9949-a53af5d567e2" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/learning_NATS_streaming.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Makefile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my_publisher/go.mod" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my_publisher/go.sum" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my_publisher/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my_publisher/model.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my_service/.env" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my_service/cmd/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my_service/config/config.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my_service/go.mod" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my_service/go.sum" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my_service/internal/app/app.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my_service/internal/controller/httpServerController/errorResponse.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my_service/internal/controller/httpServerController/handler.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my_service/internal/controller/httpServerController/httpServerController.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my_service/internal/controller/httpServerController/router.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my_service/internal/controller/httpServerController/server.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my_service/internal/controller/natsStreamingController/handler.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my_service/internal/controller/natsStreamingController/natsStreamingController.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my_service/internal/entities/delivery.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my_service/internal/entities/item.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my_service/internal/entities/order.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my_service/internal/entities/payment.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my_service/internal/infrastructure/storage/operations.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my_service/internal/infrastructure/storage/postgres.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my_service/internal/infrastructure/storage/storage.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my_service/internal/usecases/memoryCacheAdapter/memoryCacheAdapter.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my_service/internal/usecases/operations.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my_service/internal/usecases/usecase.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my_service/pkg/memorycache/memorycache.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my_service/templates/index.tmpl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my_service/templates/index2.tmpl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nats-streaming-server" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/stan.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/stan.go/examples/stan-sub/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/stan.go/examples/stan-sub/main.go" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Go File" />
+      </list>
+    </option>
+  </component>
+  <component name="GOROOT" url="file:///usr/lib/go-1.18" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2PjliRp6yNhpg6wa6qvsT2TIm0Q" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "DefaultGoTemplateProperty": "Go File",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.go.formatter.settings.were.checked": "true",
+    "RunOnceActivity.go.migrated.go.modules.settings": "true",
+    "RunOnceActivity.go.modules.go.list.on.any.changes.was.set": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "go.import.settings.migrated": "true",
+    "last_opened_file_path": "/home/ivan/GolandProjects/learning_NATS_streaming",
+    "node.js.detected.package.eslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/my_service" />
+      <recent name="$PROJECT_DIR$/my_service/templates" />
+      <recent name="$PROJECT_DIR$/my_publisher" />
+      <recent name="$PROJECT_DIR$/internal/usecases" />
+      <recent name="$PROJECT_DIR$/pkg" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/my_service" />
+      <recent name="$PROJECT_DIR$/my_service/internal/controller" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="go build learning_NATS_streaming/cmd" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="learning_NATS_streaming" />
+      <working_directory value="$PROJECT_DIR$/my_service" />
+      <kind value="PACKAGE" />
+      <package value="learning_NATS_streaming/cmd" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$/my_service/cmd/main.go" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Go Build.go build learning_NATS_streaming/cmd" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VgoProject">
+    <settings-migrated>true</settings-migrated>
+  </component>
+</project>
